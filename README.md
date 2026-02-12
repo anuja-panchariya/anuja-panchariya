@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hi, I'm Anuja 👋
 
-<!--
-**anuja-panchariya/anuja-panchariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer passionate about building clean, responsive, and user-centric web applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: React, JavaScript, HTML, CSS, Tailwind
+- Backend: Node.js, Express
+- Database/Auth: MongoDB, Supabase
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Projects
+- **Personal Portfolio** – React-based portfolio with animations
+- **Mini Full Stack App** – Auth + CRUD functionality
+- **Time Tracker App** – JavaScript logic & state handling
+
+### 📈 What I'm Focusing On
+- Advanced React patterns
+- Backend authentication & authorization
+- Writing clean, maintainable code
+
+📫 Reach me at: anujapanchariya7@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/anuja-panchariya1
