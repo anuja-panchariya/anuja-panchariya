@@ -5,7 +5,7 @@
 ### 🛠 Tech Stack
 - Frontend: React, JavaScript, HTML, CSS, Tailwind
 - Backend: Node.js, Express
-- Database/Auth: MongoDB, Supabase
+- Database/Auth: Firebase, Supabase
 - Tools: Git, GitHub, VS Code
 
 ### 🔥 Featured Projects
