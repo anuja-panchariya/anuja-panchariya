@@ -19,12 +19,12 @@ I’m a developer focused on building scalable, user-centric web applications. I
 
 ### 🔥 Featured Projects
 
-#### 🗓️ [HealthyHabits Tracker](https://github.com/your-username/project-link)
+#### 🗓️ [HealthyHabits Tracker](https://healthy-habits-frontend.onrender.com/)
 *A full-stack SaaS application for tracking daily habits and mood analytics.*
 * **Stack:** React, Node.js, Tailwind CSS, MongoDB.
 * **Key Feature:** Implemented complex state management for real-time progress tracking and responsive data visualization.
 
-#### 📁 [Personal Portfolio](https://github.com/your-username/project-link)
+#### 📁 [Personal Portfolio] (https://anny-3c46f.web.app/)
 *A high-performance portfolio showcasing motion design and responsive layouts.*
 * **Stack:** React, Framer Motion, Tailwind CSS.
 * **Focus:** Clean UI/UX with a focus on accessibility and fast load times.
