@@ -1,22 +1,46 @@
- Hi, I'm Anuja 👋
+# Hi, I'm Anuja Panchariya 👋
 
-🚀 MERN Stack Developer passionate about building clean, responsive, and user-centric web applications.
+### ⚡ Full-Stack Developer | MERN Specialist
+
+I’m a developer focused on building scalable, user-centric web applications. I enjoy bridging the gap between clean frontend design and robust backend logic. Currently refining my skills in production-grade architecture and advanced React patterns.
+
+---
 
 ### 🛠 Tech Stack
-- Frontend: React, JavaScript, HTML, CSS, Tailwind
-- Backend: Node.js, Express
-- Database/Auth: Firebase, Supabase
-- Tools: Git, GitHub, VS Code
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js | clerk|
+| **Database/Auth** | Supabase, Firebase, Supabase |
+| **Dev Tools** | GitHub, VS Code, Postman |
+
+---
 
 ### 🔥 Featured Projects
-- **Personal Portfolio** – React-based portfolio with animations
-- **Mini Full Stack App** – Auth + CRUD functionality
-- **Time Tracker App** – JavaScript logic & state handling
 
-### 📈 What I'm Focusing On
-- Advanced React patterns
-- Backend authentication & authorization
-- Writing clean, maintainable code
+#### 🗓️ [HealthyHabits Tracker](https://github.com/your-username/project-link)
+*A full-stack SaaS application for tracking daily habits and mood analytics.*
+* **Stack:** React, Node.js, Tailwind CSS, MongoDB.
+* **Key Feature:** Implemented complex state management for real-time progress tracking and responsive data visualization.
 
-📫 Reach me at: anujapanchariya7@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/anuja-panchariya1
+#### 📁 [Personal Portfolio](https://github.com/your-username/project-link)
+*A high-performance portfolio showcasing motion design and responsive layouts.*
+* **Stack:** React, Framer Motion, Tailwind CSS.
+* **Focus:** Clean UI/UX with a focus on accessibility and fast load times.
+
+
+### 📈 Current Focus
+* **Advanced React:** Mastering Design Patterns (HOCs, Render Props) and Performance Optimization.
+* **Backend Security:** Deep diving into JWT, OAuth, and Red Teaming basics for web apps.
+* **Clean Code:** Practicing DRY principles and modular architecture.
+
+---
+
+### 📫 Let's Connect!
+* **Email:** [anujapanchariya7@gmail.com](mailto:anujapanchariya7@gmail.com)
+* **LinkedIn:** [linkedin.com/in/anuja-panchariya1](https://linkedin.com/in/anuja-panchariya1)
+* **Portfolio:** [YourPortfolioLink.com](#)
+
+---
+*“Writing code is easy. Writing clean, maintainable code is an art.”*
